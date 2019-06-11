@@ -32,7 +32,7 @@ Related concepts: Differential privacy, multi-party computation.
 1. **A brief introduction to differential privacy** from *Georgian Partners*. [link](https://medium.com/georgian-impact-blog/a-brief-introduction-to-differential-privacy-eacf8722283b)
 
 1. **A beginners Guided to Federated Learning** from *Dr. Santanu Bhattacharya*. [link](https://hackernoon.com/a-beginners-guide-to-federated-learning-b29e29ba65cf).
-> Federated Learning was born at the intersection of on-device AI, blockchain, and edge computing/IoT.
+	> Federated Learning was born at the intersection of on-device AI, blockchain, and edge computing/IoT.
 
 1. **Federated Learning: The Future of Distributed Machine Learning** from *Synced*. [link](https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897)
 
