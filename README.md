@@ -17,6 +17,7 @@ Related concepts: Differential privacy, multi-party computation.
 
 1. **Federated Machine Learning: Concept and Applications** from *Qiang Yang*, etc. [link](https://arxiv.org/abs/1902.04885)
 
+1. **Federated Learning for Mobile Keyboard Prediction** by *Google*. [link](https://arxiv.org/abs/1811.03604)
 ## Blog and Tutorial
 1. **Federated Learning: Collaborative Machine Learning without Centralized Training Data** from *Google AI Blog*.
 [link](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
@@ -27,7 +28,7 @@ Related concepts: Differential privacy, multi-party computation.
 
 1. **Federated Learning in 10 lines of PyTorch and PySyft** from *OpenMind*. [link](https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/)
 
-1. **An open framework for secure and privated AI** from *ODS C*. [link](https://medium.com/@ODSC/an-open-framework-for-secure-and-private-ai-96c1891a4b)
+1. **An open framework for secure and privated AI** from *ODSC*. [link](https://medium.com/@ODSC/an-open-framework-for-secure-and-private-ai-96c1891a4b)
 
 1. **A brief introduction to differential privacy** from *Georgian Partners*. [link](https://medium.com/georgian-impact-blog/a-brief-introduction-to-differential-privacy-eacf8722283b)
 
@@ -41,6 +42,8 @@ Related concepts: Differential privacy, multi-party computation.
 
 ## Tool
 1. **PySyft** [Github](https://github.com/OpenMined/PySyft)
+
+1. **Tensorflow Federated** [link](https://www.tensorflow.org/federated); [github](https://github.com/tensorflow/federated)
 
 ## MOOC
 1. **Secure and Private AI** [Udacity](https://classroom.udacity.com/courses/ud185)
