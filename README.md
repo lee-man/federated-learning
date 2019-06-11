@@ -3,7 +3,7 @@ Related concepts: Differential privacy, multi-party computation.
 ## Paper
 1. **How To Backdoor Federated Learning**
 [link](https://arxiv.org/abs/1807.00459);
-[Code](https://github.com/ebagdasa/backdoor_federated_learning)
+[code](https://github.com/ebagdasa/backdoor_federated_learning)
 
 1. **Federated Learning: Strategies for Improving Communication Efficiency**
 [link](https://arxiv.org/abs/1610.05492)
@@ -39,11 +39,13 @@ Related concepts: Differential privacy, multi-party computation.
 
 1. *Important* **Federated Learning** from *Google AI*. [link](https://federated.withgoogle.com/)
 
+1. **Under the hood of the Pixel 2: How AI is supercharging hardware** from *Google*. [link](https://ai.google/stories/ai-in-hardware/)
+
 
 ## Tool
 1. **PySyft** [Github](https://github.com/OpenMined/PySyft)
 
-1. **Tensorflow Federated** [link](https://www.tensorflow.org/federated); [github](https://github.com/tensorflow/federated)
+1. **Tensorflow Federated** [link](https://www.tensorflow.org/federated); [Github](https://github.com/tensorflow/federated)
 
 ## MOOC
 1. **Secure and Private AI** [Udacity](https://classroom.udacity.com/courses/ud185)
