@@ -1,7 +1,7 @@
 # Federated Learning
 Related concepts: Differential privacy, Multi-Party Computation, Collaborative Learning. So far, the list is ordered without specific rules, which will be improved futher.
 ## Paper
-1. - [x]**How To Backdoor Federated Learning**
+1. - [x] **How To Backdoor Federated Learning**
 [link](https://arxiv.org/abs/1807.00459);
 [code](https://github.com/ebagdasa/backdoor_federated_learning)
 
@@ -27,7 +27,7 @@ Related concepts: Differential privacy, Multi-Party Computation, Collaborative L
 
 1. **Learning Differentially Private Recurrent Language Models** combine differentially private and federated learning. [link](https://arxiv.org/abs/1710.06963)
 
-1. - [ ]**Practical Secure Aggregation for Privacy-Preserving Machine Learning**, secure aggregation to protect model from inference attack, from *Google*. [link](https://dl.acm.org/citation.cfm?id=3133982)
+1. - [ ] **Practical Secure Aggregation for Privacy-Preserving Machine Learning**, secure aggregation to protect model from inference attack, from *Google*. [link](https://dl.acm.org/citation.cfm?id=3133982)
 
 1. **Deep Learning with Differential Privacy** from *Google*. [link](https://dl.acm.org/citation.cfm?id=2978318)
 
