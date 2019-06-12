@@ -13,11 +13,22 @@ Related concepts: Differential privacy, multi-party computation.
 
 1. - [x] **Communication-Efficient Learning of Deep Networks from Decentralized Data** from *Google* 2016. The term *Federated Learning* was first used in this paper. [link](https://arxiv.org/abs/1602.05629)
 
-1. **A generic framework for privacy preserving deep learning** A detailed explanation of PySyft. [link](https://arxiv.org/abs/1811.04017)
+1. **A Generic Framework for Privacy Preserving Peep Pearning** A detailed explanation of PySyft. [link](https://arxiv.org/abs/1811.04017)
 
 1. - [x] **Federated Machine Learning: Concept and Applications** from *Qiang Yang*, etc. [link](https://arxiv.org/abs/1902.04885)
 
 1. **Federated Learning for Mobile Keyboard Prediction** by *Google*. [link](https://arxiv.org/abs/1811.03604)
+
+1. **Federated Optimization: Distributed Machine Learning for On-Device Intelligence** from *Google*. [link](https://arxiv.org/abs/1610.02527)
+
+1. **Towards Federated Learning at Scale: System Design** from *Google*. [link](https://arxiv.org/abs/1902.01046)
+
+1. **SecureML: A system for Scalable Privacy-Perserving Machine Learning** related to **Multi-party Computation**. [link](https://ieeexplore.ieee.org/abstract/document/7958569)
+
+1. **Learning Differentially Private Recurrent Language Models** combine differentially private and federated learning. [link](https://arxiv.org/abs/1710.06963)
+
+1. **Practical Secure Aggregation for Privacy-Preserving Machine Learning**, secure aggregation to protect model from inference attack, from *Google*. [link](https://dl.acm.org/citation.cfm?id=3133982)
+
 ## Blog and Tutorial
 1. **Federated Learning: Collaborative Machine Learning without Centralized Training Data** from *Google AI Blog*.
 [link](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
@@ -28,9 +39,9 @@ Related concepts: Differential privacy, multi-party computation.
 
 1. **Federated Learning in 10 lines of PyTorch and PySyft** from *OpenMind*. [link](https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/)
 
-1. **An open framework for secure and privated AI** from *ODSC*. [link](https://medium.com/@ODSC/an-open-framework-for-secure-and-private-ai-96c1891a4b)
+1. **An Open Framework for Secure and Privated AI** from *ODSC*. [link](https://medium.com/@ODSC/an-open-framework-for-secure-and-private-ai-96c1891a4b)
 
-1. **A brief introduction to differential privacy** from *Georgian Partners*. [link](https://medium.com/georgian-impact-blog/a-brief-introduction-to-differential-privacy-eacf8722283b)
+1. **A Brief Introduction to Differential Privacy** from *Georgian Partners*. [link](https://medium.com/georgian-impact-blog/a-brief-introduction-to-differential-privacy-eacf8722283b)
 
 1. **A beginners Guided to Federated Learning** from *Dr. Santanu Bhattacharya*. [link](https://hackernoon.com/a-beginners-guide-to-federated-learning-b29e29ba65cf).
 	> Federated Learning was born at the intersection of on-device AI, blockchain, and edge computing/IoT.
@@ -39,7 +50,7 @@ Related concepts: Differential privacy, multi-party computation.
 
 1. *Important* **Federated Learning** an online comic from *Google AI*. [link](https://federated.withgoogle.com/)
 
-1. **Under the hood of the Pixel 2: How AI is supercharging hardware** from *Google*. [link](https://ai.google/stories/ai-in-hardware/)
+1. **Under The Hood of The Pixel 2: How AI Is Supercharging Hardware** from *Google*. [link](https://ai.google/stories/ai-in-hardware/)
 
 
 ## Tool
