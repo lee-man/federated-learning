@@ -11,11 +11,11 @@ Related concepts: Differential privacy, multi-party computation.
 1. **Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning**
 [link](https://dl.acm.org/citation.cfm?id=3134012)
 
-1. **Communication-Efficient Learning of Deep Networks from Decentralized Data** from *Google* 2016. The term *Federated Learning* was first used in this paper. [link](https://arxiv.org/abs/1602.05629)
+1. - [x] **Communication-Efficient Learning of Deep Networks from Decentralized Data** from *Google* 2016. The term *Federated Learning* was first used in this paper. [link](https://arxiv.org/abs/1602.05629)
 
 1. **A generic framework for privacy preserving deep learning** A detailed explanation of PySyft. [link](https://arxiv.org/abs/1811.04017)
 
-1. **Federated Machine Learning: Concept and Applications** from *Qiang Yang*, etc. [link](https://arxiv.org/abs/1902.04885)
+1. - [x] **Federated Machine Learning: Concept and Applications** from *Qiang Yang*, etc. [link](https://arxiv.org/abs/1902.04885)
 
 1. **Federated Learning for Mobile Keyboard Prediction** by *Google*. [link](https://arxiv.org/abs/1811.03604)
 ## Blog and Tutorial
@@ -37,7 +37,7 @@ Related concepts: Differential privacy, multi-party computation.
 
 1. **Federated Learning: The Future of Distributed Machine Learning** from *Synced*. [link](https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897)
 
-1. *Important* **Federated Learning** from *Google AI*. [link](https://federated.withgoogle.com/)
+1. *Important* **Federated Learning** an online comic from *Google AI*. [link](https://federated.withgoogle.com/)
 
 1. **Under the hood of the Pixel 2: How AI is supercharging hardware** from *Google*. [link](https://ai.google/stories/ai-in-hardware/)
 
