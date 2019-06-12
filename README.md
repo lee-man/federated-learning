@@ -1,14 +1,16 @@
 # Federated Learning
-Related concepts: Differential privacy, Multi-Party Computation, Collaborative Learning. So far, the list is ordered without specific rules, which will be improved futher.
+**Related concepts**: Differential privacy, Multi-Party Computation, Collaborative Learning. 
+
+So far, the list is ordered randomly, without specific rules, which will be improved in future.
 ## Paper
 1. - [x] **How To Backdoor Federated Learning**
 [link](https://arxiv.org/abs/1807.00459);
 [code](https://github.com/ebagdasa/backdoor_federated_learning)
 
-1. **Federated Learning: Strategies for Improving Communication Efficiency**
+1. - [ ] **Federated Learning: Strategies for Improving Communication Efficiency**
 [link](https://arxiv.org/abs/1610.05492)
 
-1. **Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning**
+1. - [ ] **Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning**
 [link](https://dl.acm.org/citation.cfm?id=3134012)
 
 1. - [x] **Communication-Efficient Learning of Deep Networks from Decentralized Data** from *Google* 2016. The term *Federated Learning* was first used in this paper. [link](https://arxiv.org/abs/1602.05629)
