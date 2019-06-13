@@ -47,7 +47,7 @@ So far, the list is ordered randomly, without specific rules, which will be impr
 
 1. **An Overview of Federated Learning** from *Basil Han*. This blog introduces some challenges of federated learning, including *Inference Attack* and *Model Poisoning*.[link](https://medium.com/datadriveninvestor/an-overview-of-federated-learning-8a1a62b0600d)
 
-1. **Federated Learning in 10 lines of PyTorch and PySyft** from *OpenMind*. [link](https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/)
+1. **Federated Learning in 10 lines of PyTorch and PySyft** from *OpenMinded*. [link](https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/)
 
 1. **An Open Framework for Secure and Privated AI** from *ODSC*. [link](https://medium.com/@ODSC/an-open-framework-for-secure-and-private-ai-96c1891a4b)
 
