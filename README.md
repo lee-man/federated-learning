@@ -70,5 +70,3 @@ So far, the list is ordered randomly, without specific rules, which will be impr
 
 ## MOOC
 1. **Secure and Private AI** [Udacity](https://classroom.udacity.com/courses/ud185)
-
-111
